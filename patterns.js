@@ -3,7 +3,7 @@
 
   WHAT: 
     - reusable solution that can be applied to commonly recurring problems in
-    - software design
+    software design
 
   WHY:
     - proven solution
