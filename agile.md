@@ -13,16 +13,16 @@ Waterfall process
 Agile methodology
   - why: 
     + in the 90s of the 20th century, there was a software development crisis
-    + the old methodologies had many disavantages, and led to high failure
+    + the old methodologies had many disadvantages, and led to high failure
     percentage
     + needs a new methodology
   - what:
-    + software development mindset / manifesto based on 'iterative' and
+    + software development mindset/manifesto based on 'iterative' and
     'incremental' method
     + deliver product asap
   - when:
     + unclear outcome
-    + has much changes during the process
+    + has many changes during the process
     + require customer's involvement
 
 Scrum process
@@ -36,8 +36,8 @@ Scrum process
     + product owner (po)
     + development team (dev team)
   - devided into sprints
-    + po creates product backlog that includes to-do features
-    + dev team work with PO to create plan for each sprint
+    + PO creates product backlog that includes to-do features
+    + dev team works with PO to create plans for each sprint
     + dev team implement features
     + dev team update progress frequently and do daily scrum
-    + sprint is iterated until all the features in backlog are done
+    + sprint is iterated until all the features are done
