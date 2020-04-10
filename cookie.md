@@ -16,15 +16,15 @@ Local Storage
 
 Session Storage
   - Web Storage API
-  - Store data as key/value pair at local browser
+  - Store data as key/value pair at a local browser
   - Data is stored by tab
-  - Only be accessed by client
+  - Only be accessed by clients
   - Expired time: until user close tab / browser
   - Limit: ~ 5 to 10MB
   - Actions: the same as these actions above
 
 Cookie
-  - Store data as key/value pair at local browser
+  - Store data as key/value pair at a local browser
   - Data is stored by domain
   - Can be accessed by both client and server
     + when http request is triggered, cookie is attached to the request header
